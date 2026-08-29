@@ -68,6 +68,8 @@ Cloud-based CNC program management system, built as a sponsored academic project
 **AggroConnect**
 Farmer–seller platform. Built the frontend and handled API testing with Postman, backed by MySQL.
 
+**PU Enterprises**
+Developed official website for PU Enterprises company.
 
 ---
 
