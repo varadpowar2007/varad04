@@ -78,8 +78,6 @@ Cloud-based CNC program management system — a sponsored academic project. Led 
 ### 🔹 AggroConnect
 A platform connecting farmers and sellers to simplify agricultural transactions. Built the frontend and handled API testing with Postman.
 
-### 🔹 [React Calculator](https://github.com/varadpowar2007/React-calculator)
-A calculator app built with React to practice component design and state management.
 
 ---
 
