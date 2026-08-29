@@ -52,7 +52,7 @@ Hello, I am **Varad Powar**. Welcome to my GitHub profile.
 <h3 align="center">[ TECH STACK ]</h3>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,nodejs,mysql,git,github,vscode,postman" />
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,html,css,react,mysql,git,github" />
 </p>
 
 ---
@@ -68,18 +68,8 @@ Cloud-based CNC program management system, built as a sponsored academic project
 **AggroConnect**
 Farmer–seller platform. Built the frontend and handled API testing with Postman, backed by MySQL.
 
-
----
-
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=varadpowar2007&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=varadpowar2007&theme=github-dark-blue&hide_border=true" width="48%" />
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadpowar2007&layout=compact&theme=github_dark&hide_border=true" />
-</p>
+**[React Calculator](https://github.com/varadpowar2007/React-calculator)**
+A calculator built in React to practice component design and state management.
 
 ---
 
