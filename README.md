@@ -68,8 +68,6 @@ Cloud-based CNC program management system, built as a sponsored academic project
 **AggroConnect**
 Farmer–seller platform. Built the frontend and handled API testing with Postman, backed by MySQL.
 
-**[React Calculator](https://github.com/varadpowar2007/React-calculator)**
-A calculator built in React to practice component design and state management.
 
 ---
 
