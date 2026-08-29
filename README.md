@@ -1,63 +1,89 @@
 <div align="center">
 
-<img src="https://github.com/varadpowar2007.png" width="140" style="border-radius:50%" />
+<img src="https://github.com/varadpowar2007.png" width="150" style="border-radius:50%" />
 
-# Varad Powar
+<h1>Varad Powar</h1>
 
-**Computer Engineering Student, VIT Pune · Full Stack Developer**
-
-[LinkedIn](https://www.linkedin.com/in/varad-powar-2490ab354/) · [Portfolio](https://portfolio-l5g1.vercel.app/) · [Email](mailto:varadpowar2007@gmail.com)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=460&lines=Computer+Engineering+Student+%40+VIT+Pune;Full+Stack+Developer;DSA+%2B+Problem+Solving+in+C%2B%2B" alt="typing" />
 
 </div>
 
+<br>
+
 ---
 
-## About
+<h3 align="center">[ CONNECT WITH ME ]</h3>
 
-Computer Engineering student at Vishwakarma Institute of Technology (VIT), Pune, coming in with a Diploma in Information Technology from Government Polytechnic Kolhapur. I work across the stack — frontend, backend, and databases — and I'm currently sharpening my DSA fundamentals in C++.
+<table align="center">
+<tr>
+<td align="center" width="140">
+<a href="https://www.linkedin.com/in/varad-powar-2490ab354/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/linkedin.svg" width="32" /><br>LinkedIn
+</a>
+</td>
+<td align="center" width="140">
+<a href="https://portfolio-l5g1.vercel.app/">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/vercel.svg" width="32" /><br>Portfolio
+</a>
+</td>
+<td align="center" width="140">
+<a href="mailto:varadpowar2007@gmail.com">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/gmail.svg" width="32" /><br>Gmail
+</a>
+</td>
+</tr>
+</table>
 
-- Full Stack Development Intern at **Appwizer Solutions** (Jun–Sep 2025), working with Node.js, React Native, and MySQL on production products
+---
+
+<h3 align="center">[ ABOUT ME ]</h3>
+
+Hello, I am **Varad Powar**. Welcome to my GitHub profile.
+
+- I'm a Computer Engineering student at **VIT Pune**, coming in with a Diploma in IT from Government Polytechnic Kolhapur
+- Interested in full stack development and backend systems
+- Was a Full Stack Development Intern at **Appwizer Solutions**, working with Node.js, React Native, and MySQL
 - Led **RevoTurn**, a sponsored academic project building a cloud-based CNC program management system
-- Built **AggroConnect**, a platform connecting farmers and sellers
+- Currently sharpening my DSA fundamentals in C++
 - Based in Pune, Maharashtra
 
 ---
 
-## Tech Stack
+<h3 align="center">[ TECH STACK ]</h3>
 
-**Languages:** C, C++, Java, JavaScript, TypeScript
-
-**Web:** HTML, CSS, React, React Native, Node.js
-
-**Database:** MySQL
-
-**Tools:** Git, GitHub, Postman, Jira, VS Code
+<p align="center">
+<img src="https://skillicons.dev/icons?i=c,cpp,java,js,ts,html,css,react,nodejs,mysql,git,github,vscode,postman" />
+</p>
 
 ---
 
-## Projects
+<h3 align="center">[ PROJECTS ]</h3>
 
 **[Pathfinding Visualizer](https://pathfinding-visualizer-one-lovat.vercel.app/)**
-React app visualizing Dijkstra, A*, BFS, DFS, Greedy Best-First, and Bidirectional BFS, with maze generation, weighted terrain, and a side-by-side comparison mode.
+React app visualizing Dijkstra, A*, BFS, DFS, Greedy Best-First, and Bidirectional BFS — with maze generation, weighted terrain, and a side-by-side comparison mode.
 
 **RevoTurn**
-Cloud-based CNC program management system built as a sponsored academic project. Led the team and built the frontend with React and TypeScript, backed by MySQL.
+Cloud-based CNC program management system, built as a sponsored academic project. Led the team; built the frontend with React and TypeScript, backed by MySQL.
 
 **AggroConnect**
 Farmer–seller platform. Built the frontend and handled API testing with Postman, backed by MySQL.
 
+**[React Calculator](https://github.com/varadpowar2007/React-calculator)**
+A calculator built in React to practice component design and state management.
 
 ---
 
-## GitHub Stats
+<h3 align="center">[ GITHUB STATS ]</h3>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=varadpowar2007&show_icons=true&theme=default&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadpowar2007&layout=compact&theme=default&hide_border=true" width="42%" />
-</div>
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=varadpowar2007&show_icons=true&theme=github_dark&hide_border=true&count_private=true" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=varadpowar2007&theme=github-dark-blue&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=varadpowar2007&layout=compact&theme=github_dark&hide_border=true" />
+</p>
 
 ---
 
-<div align="center">
-<sub>Open to Full Stack Development and Software Engineering internships.</sub>
-</div>
+<p align="center"><sub>Open to Full Stack Development and Software Engineering internships.</sub></p>
